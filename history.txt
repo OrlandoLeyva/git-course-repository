@@ -7,3 +7,5 @@ I've done my first commit
 Hi, It's me again. I learning about staging. 15 10 2022
 
 hard and soft
+
+using html
