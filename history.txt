@@ -1,3 +1,7 @@
 Here start this history...
 
 Hi, my name is orlando, I'm 20 years old, I'm from Mexico and I am learing Git and gitHub
+
+I've done my first commit
+
+Hi, It's me again. I learning about staging. 15 10 2022
