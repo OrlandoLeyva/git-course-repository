@@ -26,3 +26,5 @@ I broke something but i'm gonna fix it
 It seems I fixed :)
 
 Problmes with ssh again? fuck :(
+
+i've created a new private and public key
