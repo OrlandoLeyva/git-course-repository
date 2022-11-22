@@ -25,3 +25,4 @@ I broke something but i'm gonna fix it
 
 It seems I fixed :)
 
+Problmes with ssh again? fuck :(
