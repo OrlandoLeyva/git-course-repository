@@ -22,3 +22,6 @@ I am a different branch, this is crazy !!!
 wow I just learned how to use ssh keys.
 
 I broke something but i'm gonna fix it
+
+It seems I fixed :)
+
