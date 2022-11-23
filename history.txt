@@ -28,3 +28,5 @@ It seems I fixed :)
 Problmes with ssh again? fuck :(
 
 i've created a new private and public key
+
+Hi i am lando and i am new. nice to meet you, guys
