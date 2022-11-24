@@ -30,3 +30,5 @@ Problmes with ssh again? fuck :(
 i've created a new private and public key
 
 Hi i am lando and i am new. nice to meet you, guys
+
+let's keep going. the new version is closed
