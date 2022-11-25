@@ -8,6 +8,8 @@ function res(num1, num2) {
   return num1 - num2;
 }
 
+console.log('process end')
+
 module.exports = sum;
 
 //working on secondModule to send a pull request
